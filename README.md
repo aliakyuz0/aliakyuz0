@@ -1,7 +1,7 @@
 ![MasterHead](https://codigno.com/wp-content/uploads/2023/01/Programlama-Dilleri-1.webp)
 <h1 align="center">Hi 👋, I'm Ali Akyüz</h1>
 <h3 align="center">I am a passionate and software enthusiast young person studying in Cyprus.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliakyuz0&label=Profile%20views&color=0e75b6&style=flat" alt="aliakyuz0" /> </p>
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=aliakyuz0&label=Profile%20views&color=0e75b6&style=flat" alt="aliakyuz0" /> </p>
 
 
 - 🌱 I’m currently learning **C and Python**
